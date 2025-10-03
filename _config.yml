@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
-title: RyMacfly's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: "Ryan Macfarlane | Boise State Computer Science"
+description: "Computer Science Major at Boise State — Portfolio & Projects"
+theme: jekyll-theme-cayman
+show_downloads: false
